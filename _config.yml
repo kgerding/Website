@@ -6,10 +6,10 @@
 name: Kilian Gerding
 
 # Short bio or description (displayed in the header)
-description: Master Student in Banking and Finance (Focus on Financial Markets)
+description: Master Student in Banking and Finance at University of St. Gallen
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/43856100?s=460&u=dc6a7fed3f38e5db335ed97864c73005694a70cd&v=4
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github:
   instagram:
-  linkedin: www.linkedin.com/in/k-gerding
+  linkedin: https://www.linkedin.com/in/k-gerding/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
