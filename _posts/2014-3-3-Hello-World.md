@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my Blog
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+###Why this Website?
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I created this blog to give you the chance to get to know me a little better than just looking at social (professional) media like LinkedIn or just by looking at my CV.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I intend to post about my reading, investing ideas, meditation and other topics to my liking.
+
+Please feel free to reach out to me via Mail or LinkedIn, if you want to get in contact.
+
+
