@@ -9,7 +9,7 @@ I am a graduate student in Finance at University of St. Gallen specializing in F
 
 ### More Information
 
-Check my LinkedIn: www.linkedin.com/in/k-gerding
+Check my [LinkedIn](www.linkedin.com/in/k-gerding) 
 
 ### Contact me
 
