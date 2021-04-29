@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
+I am a graduate student in Finance at University of St. Gallen specializing in Financial Markets. I am passionate about Markets, want to study them in detail and work with them professionally.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Check my LinkedIn: www.linkedin.com/in/k-gerding
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kiliangerding@web.de](mailto:kiliangerding@web.de)
